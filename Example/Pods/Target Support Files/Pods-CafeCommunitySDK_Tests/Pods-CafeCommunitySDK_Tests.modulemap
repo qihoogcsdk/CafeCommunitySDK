@@ -1,0 +1,6 @@
+framework module Pods_CafeCommunitySDK_Tests {
+  umbrella header "Pods-CafeCommunitySDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
